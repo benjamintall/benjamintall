@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @benjamintall
-- Im doing Codecademys Front-End Engineer Career Path. Hopefully in the future I´ll work as an Font-End Developer.
